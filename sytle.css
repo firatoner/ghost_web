@@ -19,7 +19,7 @@ html{
 /* ======= ROOT =======*/
 
 :root{
-	--blurple: #7289DA;
+	  --blurple: #7289DA;
 	--purple: #9d75c9;
 	--darker: #5b6ba3;
 	--darkblack: #1e2124;
@@ -33,7 +33,6 @@ html{
 	overflow: hidden;
 	padding: 20px;
 }
-
 
 /* ======= BEGIN LOADER =======*/
 
